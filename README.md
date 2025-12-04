@@ -1,0 +1,1 @@
+This repository contains the input data files and R scripts used for the metagenomic analysis of performed in the paper Kost et al. "How agricultural legacy shapes the drought response of the wheat rhizobiome"
