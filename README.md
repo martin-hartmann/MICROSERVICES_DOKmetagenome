@@ -10,3 +10,4 @@ R scripts:
 3. Script for analysis of beta diversity from nutrient-specific ontologies (BetaDiversity-NutrientOntology.r)
 4. Script for univariate analysis of gene functions based on SEED (GeneLevelAnalysis_SEED.r)
 5. Script for indicator analysis of gene functions based on SEED (IndicatorAnalysis_SEED.r)
+6. Script for univariate analysis of gene functions based on nutrient-specific ontologies (GeneLevelAnalysis_NutrientOntologies.r)
